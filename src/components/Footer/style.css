@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    padding: 2%;
+    display: flex;
+}
+
+.footer .texts{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .title{
+    font-family: gotham-bold;
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+}
+
+.footer .text a{
+    font-family: gotham;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.footer .email{
+    font-family: gotham;
+    margin-top: 20px;
+    font-size: 1.1rem;
+}

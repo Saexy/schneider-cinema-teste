@@ -1,0 +1,98 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1%;
+    overflow: hidden;
+}
+
+.navbar .logo{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .logo .mobile-icon{
+    display: none;
+    width: 10%;
+    justify-content: flex-end;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.navbar .categories{
+    width: 90%;
+    display: flex;
+    overflow: hidden;
+}
+
+.navbar .categories .list{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar .categories .list .item{
+    color: black;
+    font-family: gotham-bold;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 1.05rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border-bottom: solid 1px transparent;
+}
+
+.navbar .categories .list .item.active{
+    border-bottom: solid 1px black !important;
+}
+
+.navbar .categories .list .item:hover{
+    border-bottom: solid 1px black;
+}
+
+.navbar .categories .list .item.active:hover{
+    border-bottom: solid 1px rgb(88, 88, 88) !important;
+}
+
+.navbar .categories .list .divider{
+    color: black;
+    font-family: gotham-bold;
+    font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+    .navbar{
+        flex-direction: column;
+    }
+
+    .navbar .logo{
+        width: 100%;
+        justify-content: space-between;
+        margin-bottom: 5%;
+    }
+
+    .navbar .logo img{
+        margin-left: 2.5%;
+    }
+
+    .navbar .logo .mobile-icon{
+        display: flex;
+    }
+
+    .navbar .categories .list{
+        flex-direction: column;
+        display: none;
+    }
+
+    .navbar .categories .list.show{
+        display: flex;
+    }
+
+    .navbar .categories .list .divider{
+        display: none;
+    }
+}

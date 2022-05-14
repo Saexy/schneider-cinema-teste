@@ -1,13 +1,25 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: luthier;
+    src: url("./assets/fonts/Luthier-Regular.ttf");
+}
+
+@font-face {
+    font-family: luthier-bold;
+    src: url("./assets/fonts/Luthier-Bold.ttf");
+}
+
+@font-face {
+    font-family: gotham;
+    src: url("./assets/fonts/Gotham.ttf");
+}
+
+@font-face {
+    font-family: gotham-bold;
+    src: url("./assets/fonts/GothamBold.ttf");
 }
