@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/schneider-cinema-teste/static/css/main.46470aef.css",
+    "main.js": "/schneider-cinema-teste/static/js/main.b37c40b4.js",
+    "static/media/about_2.png": "/schneider-cinema-teste/static/media/about_2.2c2ede8292f69ed2b626.png",
+    "static/media/1.png": "/schneider-cinema-teste/static/media/1.aa49c40c889e04ecf76e.png",
+    "static/media/team_1.png": "/schneider-cinema-teste/static/media/team_1.aa49c40c889e04ecf76e.png",
+    "static/media/film.png": "/schneider-cinema-teste/static/media/film.6d43adaa9aa73dd4b842.png",
+    "static/media/slide_4.png": "/schneider-cinema-teste/static/media/slide_4.5706246ed9c566ef8f1f.png",
+    "static/media/slide_1.png": "/schneider-cinema-teste/static/media/slide_1.bec48efc2b2ff3b3576f.png",
+    "static/media/about_1.png": "/schneider-cinema-teste/static/media/about_1.bb2dfc7313cb19eea8bc.png",
+    "static/media/slide_2.png": "/schneider-cinema-teste/static/media/slide_2.e4ad1671f72c00cda18d.png",
+    "static/media/slide_3.png": "/schneider-cinema-teste/static/media/slide_3.eb7bd78207ec959665ef.png",
+    "static/media/Luthier-Regular.ttf": "/schneider-cinema-teste/static/media/Luthier-Regular.c48732112b141d11324d.ttf",
+    "static/media/Luthier-Bold.ttf": "/schneider-cinema-teste/static/media/Luthier-Bold.3192b0c3a99d48ea7c7c.ttf",
+    "static/media/Logo_Name.png": "/schneider-cinema-teste/static/media/Logo_Name.569a358261524ff157ac.png",
+    "static/media/Gotham.ttf": "/schneider-cinema-teste/static/media/Gotham.03e7ff609ba3bf798fa4.ttf",
+    "static/media/GothamBold.ttf": "/schneider-cinema-teste/static/media/GothamBold.108854bb27dee2dce854.ttf",
+    "index.html": "/schneider-cinema-teste/index.html",
+    "main.46470aef.css.map": "/schneider-cinema-teste/static/css/main.46470aef.css.map",
+    "main.b37c40b4.js.map": "/schneider-cinema-teste/static/js/main.b37c40b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46470aef.css",
+    "static/js/main.b37c40b4.js"
+  ]
+}
