@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/schneider-cinema-teste/static/css/main.46470aef.css",
-    "main.js": "/schneider-cinema-teste/static/js/main.bc9c3180.js",
+    "main.js": "/schneider-cinema-teste/static/js/main.9a44b61d.js",
     "static/media/about_2.png": "/schneider-cinema-teste/static/media/about_2.2c2ede8292f69ed2b626.png",
     "static/media/1.png": "/schneider-cinema-teste/static/media/1.aa49c40c889e04ecf76e.png",
     "static/media/team_1.png": "/schneider-cinema-teste/static/media/team_1.aa49c40c889e04ecf76e.png",
@@ -18,10 +18,10 @@
     "static/media/GothamBold.ttf": "/schneider-cinema-teste/static/media/GothamBold.108854bb27dee2dce854.ttf",
     "index.html": "/schneider-cinema-teste/index.html",
     "main.46470aef.css.map": "/schneider-cinema-teste/static/css/main.46470aef.css.map",
-    "main.bc9c3180.js.map": "/schneider-cinema-teste/static/js/main.bc9c3180.js.map"
+    "main.9a44b61d.js.map": "/schneider-cinema-teste/static/js/main.9a44b61d.js.map"
   },
   "entrypoints": [
     "static/css/main.46470aef.css",
-    "static/js/main.bc9c3180.js"
+    "static/js/main.9a44b61d.js"
   ]
 }
